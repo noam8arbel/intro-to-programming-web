@@ -1,0 +1,16 @@
+body {
+    font-family: inter, sans-serif;
+}
+h1 {
+    color: blue;
+}
+
+ol {
+    line-height: 2;
+    padding-left: 100px;
+}
+
+div {
+    border: red solid;
+    background-color: lightblue;
+}

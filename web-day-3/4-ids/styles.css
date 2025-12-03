@@ -1,0 +1,36 @@
+body {
+    font-family: inter, sans-serif;
+}
+h1 {
+    color: blue;
+}
+
+ol {
+    line-height: 2;
+    padding-left: 100px;
+}
+
+#titleOfPage {
+    color: green;
+}
+
+
+<!--
+.paragraph1 {
+    background-color: green;
+}
+
+.paragraph2 {
+    background-color: yellow;
+}
+
+
+div {
+    border: red solid;
+    background-color: lightblue;
+}
+
+span {
+    color: green;
+}
+-->
